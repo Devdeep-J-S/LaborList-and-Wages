@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'LaborList.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'yujkjwed',
-        'USER' :'yujkjwed',
-        'PASSWORD' :'EE47Xt5XHwun6RLozgyAUle-MRTgMexr',
-        'HOST':'tiny.db.elephantsql.com',
-        'PORT':'5432'
+#         'NAME': 'yujkjwed',
+#         'USER' :'yujkjwed',
+#         'PASSWORD' :'EE47Xt5XHwun6RLozgyAUle-MRTgMexr',
+#         'HOST':'tiny.db.elephantsql.com',
+#         'PORT':'5432'
     }
 }
 
